@@ -16,3 +16,17 @@ Utility Classes for easy to generate Stripe Token, Add card and retrieve cards.
 <uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
 ```
+
+**Generate Token - **
+```
+Email not mandatory to generate Token just fill card info and get Token.
+```
+
+**Save Card - **
+```
+Here Every user must have an email, By using email Id we generate Stripe Customer Id and save Card Info on Stripe If there is already Stripe Customer Id exits then no need to generate Stripe Customer Id again.
+```
+**Retrieve Cards - **
+```
+By using Stripe Customer Id we get all cards info.
+```
