@@ -1,6 +1,6 @@
-# Android-CurrentLocation
+# Android - Stripe Utils
 
-Utility Module for easy access to the device location on Android
+Utility Classes for easy to generate Stripe Token, Add card and retrieve cards.
 
 ## Demo
 
