@@ -15,5 +15,4 @@ Utility Classes for easy to generate Stripe Token, Add card and retrieve cards.
 ```
 <uses-permission android:name="android.permission.INTERNET"/>
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
-
 ```
